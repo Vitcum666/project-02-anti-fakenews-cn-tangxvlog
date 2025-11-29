@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Build outputs
+backend/target/
+front/dist/
+
+# Dependencies
+front/node_modules/
+
+# Local data
+mysql-data/
+
+# Env
+.env
+
+# Git nested repos
+front/.git/
